@@ -3,4 +3,4 @@ streamlit-webrtc==0.47.6
 opencv-python-headless==4.10.0.84
 numpy==1.26.4
 av==12.1.0
-git+https://github.com/kinivi/mediapipe-python.git
+mediapipe==0.10.21
