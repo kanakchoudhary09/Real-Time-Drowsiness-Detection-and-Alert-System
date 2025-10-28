@@ -36,7 +36,7 @@ This project is a **real-time drowsiness detection system** designed to enhance 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nirmalchoudhary9/RealTime-Drowsiness-Detection-and-Alert-System.git
+   git clone https://github.com/kanakchoudhary09/Real-Time-Drowsiness-Detection-and-Alert-System.git
    cd RealTime-Drowsiness-Detection-and-Alert-System
    ```
 
@@ -87,10 +87,3 @@ This project is a **real-time drowsiness detection system** designed to enhance 
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
----
-
-## 📧 Contact
-
-For any inquiries, please contact:
-- **GitHub**: [nirmalchoudhary9](https://github.com/nirmalchoudhary9)
-```
